@@ -1,5 +1,6 @@
 # duckduckgoBangs
-Search shortcuts for duckduckgo search engine
+Search shortcuts for duckduckgo search engine  
+
 Here some additional and cool search bangs for [duckduckgo 🦆](https://duckduckgo.com/) search engine to add to the defaults ones.  
 
 - **PHIND AI GPT**
